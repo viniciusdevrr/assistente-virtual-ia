@@ -1,0 +1,59 @@
+{
+  "sobre": {
+    "nome": "DataGuide",
+    "descricao": "Assistente educacional para conceitos de análise de dados, Excel, Power BI, indicadores e automação.",
+    "publico": "Pessoas iniciantes e intermediárias em dados e BI."
+  },
+  "conceitos": [
+    {
+      "tema": "KPI",
+      "pergunta": "O que é KPI?",
+      "resposta": "KPI (Key Performance Indicator) é um indicador usado para acompanhar o desempenho de um objetivo ou processo. Um bom KPI deve estar ligado a um objetivo mensurável."
+    },
+    {
+      "tema": "Métrica",
+      "pergunta": "O que é uma métrica?",
+      "resposta": "Métrica é uma medida usada para quantificar um fenômeno ou resultado. Nem toda métrica é um KPI: KPI é uma métrica selecionada por sua relevância para acompanhar um objetivo."
+    },
+    {
+      "tema": "Power Query",
+      "pergunta": "O que é Power Query?",
+      "resposta": "Power Query é uma ferramenta de preparação e transformação de dados. Ela permite importar dados, limpar colunas, alterar tipos, combinar tabelas e automatizar etapas de tratamento."
+    },
+    {
+      "tema": "DAX",
+      "pergunta": "O que é DAX?",
+      "resposta": "DAX (Data Analysis Expressions) é a linguagem usada principalmente no Power BI para criar medidas, colunas calculadas e expressões de análise."
+    },
+    {
+      "tema": "Tabela dinâmica",
+      "pergunta": "O que é tabela dinâmica?",
+      "resposta": "Tabela dinâmica é um recurso do Excel que permite resumir, agrupar e analisar grandes conjuntos de dados de forma interativa."
+    },
+    {
+      "tema": "PROCV",
+      "pergunta": "Para que serve o PROCV?",
+      "resposta": "PROCV procura um valor na primeira coluna de uma tabela e retorna uma informação correspondente de outra coluna. Em versões modernas do Excel, PROCX é uma alternativa mais flexível."
+    },
+    {
+      "tema": "Automação",
+      "pergunta": "O que é automação de processos?",
+      "resposta": "Automação de processos consiste em utilizar ferramentas e scripts para executar tarefas repetitivas com menor intervenção manual, aumentando padronização e produtividade."
+    },
+    {
+      "tema": "ETL",
+      "pergunta": "O que é ETL?",
+      "resposta": "ETL significa Extract, Transform, Load. É um processo de extrair dados de fontes, transformar ou limpar esses dados e carregá-los em um destino para análise."
+    }
+  ],
+  "regras": [
+    "Responder em português do Brasil.",
+    "Usar linguagem clara e didática.",
+    "Priorizar informações presentes na base.",
+    "Não inventar dados, definições ou resultados.",
+    "Quando a base não tiver informação suficiente, informar isso claramente.",
+    "Não afirmar que realizou ações que não realizou.",
+    "Diferenciar conceitos quando houver risco de confusão.",
+    "Quando fizer sentido, apresentar um exemplo simples."
+  ]
+}

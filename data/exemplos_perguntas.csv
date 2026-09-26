@@ -1,0 +1,9 @@
+﻿pergunta,tipo,comportamento_esperado
+O que é um KPI?,conceito,Explicar definição e diferença para métrica.
+Qual a diferença entre KPI e métrica?,conceito,Explicar de forma comparativa.
+O que é Power Query?,conceito,Explicar função e exemplos.
+O que é DAX?,conceito,Explicar finalidade no Power BI.
+Para que serve uma tabela dinâmica?,conceito,Explicar uso no Excel.
+Qual indicador posso usar para acompanhar vendas?,indicadores,Consultar a base de indicadores.
+O que é Python?,fora_da_base,O agente deve informar que não possui informação suficiente na base.
+Qual é o preço do Power BI?,fora_da_base,O agente não deve inventar preço.

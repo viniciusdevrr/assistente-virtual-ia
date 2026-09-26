@@ -1,0 +1,6 @@
+﻿categoria,indicador,descricao,area
+vendas,Faturamento,Soma do valor vendido,Financeiro
+vendas,Ticket médio,Faturamento dividido pela quantidade de vendas,Comercial
+clientes,Taxa de cancelamento,Clientes cancelados dividido pela base de clientes,Clientes
+atendimento,Tempo médio de atendimento,Tempo total de atendimento dividido pelo número de atendimentos,Operacional
+estoque,Giro de estoque,Relação entre consumo/vendas e estoque médio,Operacional
